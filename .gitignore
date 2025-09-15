@@ -1,0 +1,48 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.pch
+*.ilk
+*.obj
+*.pdb
+*.idb
+*.lib
+*.exp
+*.res
+*.exe
+*.dll
+*.tlb
+*.tlh
+*.tli
+*.log
+*.bak
+*.cache
+*.sdf
+*.ipch
+
+# Build output directories
+bin/
+Binaries/
+obj/
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Visual Studio Code (if used)
+.vscode/
+
+# Other temporary or generated files
+*.~
+*.tmp
+*.log
+*.old
